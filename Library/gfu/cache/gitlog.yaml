@@ -13,9 +13,183 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-02-02T14:22:27.467-08:00
+  lastUpdatedAtString: 2021-02-02T14:24:15.203-08:00
   initializedAtString: 2021-02-02T14:22:26.526-08:00
   log:
+  - commitID: ce0f10970b2992e7128644ab6b9e82d48a6b209b
+    mergeA: 
+    mergeB: 
+    authorName: Gavin S
+    authorEmail: 46635587+blue2cat@users.noreply.github.com
+    commitEmail: 46635587+blue2cat@users.noreply.github.com
+    commitName: Gavin S
+    summary: commit changes
+    description: 
+    timeString: 2021-02-02T14:24:12.000-08:00
+    commitTimeString: 2021-02-02T14:24:12.000-08:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 10abc28c385c41a61eab5ac310ac8a8a03a1bc46
+    mergeA: 
+    mergeB: 
+    authorName: Gavin S
+    authorEmail: 46635587+blue2cat@users.noreply.github.com
+    commitEmail: 46635587+blue2cat@users.noreply.github.com
+    commitName: Gavin S
+    summary: commit changes
+    description: 
+    timeString: 2021-02-02T14:23:55.000-08:00
+    commitTimeString: 2021-02-02T14:23:55.000-08:00
+    changes:
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: ccf1b1cc7e8d7d59f72fb37dfaaea3ba03e2f56c
     mergeA: 
     mergeB: 
