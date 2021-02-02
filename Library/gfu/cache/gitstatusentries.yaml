@@ -13,21 +13,33 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-02-02T14:24:57.343-08:00
-  initializedAtString: 2021-02-02T14:22:25.510-08:00
+  lastUpdatedAtString: 2021-02-02T14:31:12.411-08:00
+  initializedAtString: 2021-02-02T14:29:07.160-08:00
   entries:
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -37,6 +49,78 @@ MonoBehaviour:
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -52,75 +136,75 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-074038352b95db249bf75cec865cc10c
-    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-074038352b95db249bf75cec865cc10c
-    projectPath: Temp\UnityTempFile-074038352b95db249bf75cec865cc10c
+  - path: Temp\UnityTempFile-04c54cf38423c754baaaa24b593d945a
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-04c54cf38423c754baaaa24b593d945a
+    projectPath: Temp\UnityTempFile-04c54cf38423c754baaaa24b593d945a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-22371109f4b35a44abfaa39561a22060
-    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-22371109f4b35a44abfaa39561a22060
-    projectPath: Temp\UnityTempFile-22371109f4b35a44abfaa39561a22060
+  - path: Temp\UnityTempFile-15f1fef47b1eb174b814efd67ac2e0f1
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-15f1fef47b1eb174b814efd67ac2e0f1
+    projectPath: Temp\UnityTempFile-15f1fef47b1eb174b814efd67ac2e0f1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-525edaaa62ffb824db0671d0b3625342
-    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-525edaaa62ffb824db0671d0b3625342
-    projectPath: Temp\UnityTempFile-525edaaa62ffb824db0671d0b3625342
+  - path: Temp\UnityTempFile-35a58b2b3b441334da3e2a6fd12a92cf
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-35a58b2b3b441334da3e2a6fd12a92cf
+    projectPath: Temp\UnityTempFile-35a58b2b3b441334da3e2a6fd12a92cf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-55d990f6b67175a4b8ec907462282de6
-    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-55d990f6b67175a4b8ec907462282de6
-    projectPath: Temp\UnityTempFile-55d990f6b67175a4b8ec907462282de6
+  - path: Temp\UnityTempFile-35bb9127a48a208498e0e9861e046b20
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-35bb9127a48a208498e0e9861e046b20
+    projectPath: Temp\UnityTempFile-35bb9127a48a208498e0e9861e046b20
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-70fbe479dfdcd2b4289cc7436cefa3d5
-    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-70fbe479dfdcd2b4289cc7436cefa3d5
-    projectPath: Temp\UnityTempFile-70fbe479dfdcd2b4289cc7436cefa3d5
+  - path: Temp\UnityTempFile-3e44c538bbc93d144804e119cf6ee6e8
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-3e44c538bbc93d144804e119cf6ee6e8
+    projectPath: Temp\UnityTempFile-3e44c538bbc93d144804e119cf6ee6e8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-7630ebd4c7579dd4f8fee90f41e98794
-    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-7630ebd4c7579dd4f8fee90f41e98794
-    projectPath: Temp\UnityTempFile-7630ebd4c7579dd4f8fee90f41e98794
+  - path: Temp\UnityTempFile-46fd73236c55bb84dbfbef0b0a1001dd
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-46fd73236c55bb84dbfbef0b0a1001dd
+    projectPath: Temp\UnityTempFile-46fd73236c55bb84dbfbef0b0a1001dd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-992c27c944cb6744cae32810604004b5
-    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-992c27c944cb6744cae32810604004b5
-    projectPath: Temp\UnityTempFile-992c27c944cb6744cae32810604004b5
+  - path: Temp\UnityTempFile-56966c8b13f26444eb167713caf53546
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-56966c8b13f26444eb167713caf53546
+    projectPath: Temp\UnityTempFile-56966c8b13f26444eb167713caf53546
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-a8dd5c5d5d3836e48935eb07ffe50b65
-    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-a8dd5c5d5d3836e48935eb07ffe50b65
-    projectPath: Temp\UnityTempFile-a8dd5c5d5d3836e48935eb07ffe50b65
+  - path: Temp\UnityTempFile-5b4182fc97d0d3b4a8106048d23559cb
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-5b4182fc97d0d3b4a8106048d23559cb
+    projectPath: Temp\UnityTempFile-5b4182fc97d0d3b4a8106048d23559cb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-ab6a6dd88f83b7148968dd1301e527b2
-    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-ab6a6dd88f83b7148968dd1301e527b2
-    projectPath: Temp\UnityTempFile-ab6a6dd88f83b7148968dd1301e527b2
+  - path: Temp\UnityTempFile-5f67f278ee85cf74388e772eb8450d63
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-5f67f278ee85cf74388e772eb8450d63
+    projectPath: Temp\UnityTempFile-5f67f278ee85cf74388e772eb8450d63
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b51e90ba7e4b9f04a9e3e9e127bdc8be
-    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-b51e90ba7e4b9f04a9e3e9e127bdc8be
-    projectPath: Temp\UnityTempFile-b51e90ba7e4b9f04a9e3e9e127bdc8be
+  - path: Temp\UnityTempFile-cf92fd6f945df8f45ae4cd7d77d68ca8
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-cf92fd6f945df8f45ae4cd7d77d68ca8
+    projectPath: Temp\UnityTempFile-cf92fd6f945df8f45ae4cd7d77d68ca8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c08110634fca84646baf762f73a55b8b
-    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-c08110634fca84646baf762f73a55b8b
-    projectPath: Temp\UnityTempFile-c08110634fca84646baf762f73a55b8b
+  - path: Temp\UnityTempFile-f21f117528ed7e94d981d19147f5460d
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-f21f117528ed7e94d981d19147f5460d
+    projectPath: Temp\UnityTempFile-f21f117528ed7e94d981d19147f5460d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-dbb3c5d49281e7748a647fc76146f2b2
-    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-dbb3c5d49281e7748a647fc76146f2b2
-    projectPath: Temp\UnityTempFile-dbb3c5d49281e7748a647fc76146f2b2
+  - path: Temp\UnityTempFile-fd2763f51f9e89a47b5fc2a7b2f7947e
+    fullPath: C:\Users\GavinStuart\OneDrive - Stuart Family Tech\Documents\GitHub\WCC_Programming_Club_Game\Temp\UnityTempFile-fd2763f51f9e89a47b5fc2a7b2f7947e
+    projectPath: Temp\UnityTempFile-fd2763f51f9e89a47b5fc2a7b2f7947e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
