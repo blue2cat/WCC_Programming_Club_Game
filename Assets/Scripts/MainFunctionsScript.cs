@@ -12,20 +12,22 @@ public class MainFunctionsScript {
 	}
 	
 	// Called the first frame of the game, called only once
+	// Called only if script is being used.
 	public void Start() {
 		
 		
 	}
 	
 	// Called every frame of the game.
+	// Call is not consistant, time varies between calls
 	public void Update() {
 		
 		
 	}
 	
-	// Called every Physics2D frame I think
-	// This one relates more to the actual motion and movement in the game
-	// I believe
+	// Called in "native player loop"
+	// The update time between calls is consistant.
+	// So it might be called every 0.01 seconds for example
 	public void FixedUpdate() {
 		
 		
