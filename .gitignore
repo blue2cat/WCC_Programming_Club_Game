@@ -70,5 +70,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-#test ending remove
+#preset ending remove
 .preset
+
+#exclude version number txt file
+/ProjectSettings/ProjectVersion.txt
