@@ -488,7 +488,7 @@ MonoBehaviour:
   interpVelocity: 0
   minDistance: 0
   followDistance: 0
-  target: {fileID: 0}
+  target: {fileID: 829384384}
   offset: {x: 0, y: 0, z: 0}
 --- !u!1 &1641903321
 GameObject:
