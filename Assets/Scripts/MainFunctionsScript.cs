@@ -1,3 +1,4 @@
+// This script is the main function for the Game
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

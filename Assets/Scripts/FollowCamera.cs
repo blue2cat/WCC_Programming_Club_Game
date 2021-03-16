@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿// This script makes the camera view follow the sprite character. 
+using UnityEngine;
 using System.Collections;
 
 public class FollowCamera : MonoBehaviour {

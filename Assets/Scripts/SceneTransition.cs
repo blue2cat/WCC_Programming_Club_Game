@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿// This script causes the scenes to transition on button click 
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
